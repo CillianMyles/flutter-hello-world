@@ -1,6 +1,6 @@
 # hello_world
 
-A Hello World Flutter application.
+A Hello World Flutter application
 
 ## Getting Started
 
